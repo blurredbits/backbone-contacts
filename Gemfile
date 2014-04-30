@@ -22,7 +22,6 @@ gem 'rake'
 # reloader
 gem 'shotgun'
 
-group :test do   
-  gem 'faker'
-  gem 'rspec'
-end
+ 
+gem 'faker'
+gem 'rspec'
