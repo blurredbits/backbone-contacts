@@ -33,7 +33,6 @@ put '/api/contact/:id' do
     end
     contact.save
   end
-
 end
 
 delete '/api/contact/:id' do
