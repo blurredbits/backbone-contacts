@@ -22,6 +22,6 @@ gem 'rake'
 # reloader
 gem 'shotgun'
 
- 
+# test, development 
 gem 'faker'
 gem 'rspec'
